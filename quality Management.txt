@@ -1,0 +1,26 @@
+
+. soap -  pH level: The pH of the soap should be within a specific range to be effective and safe for use.
+
+. Aeroplane -  aircraft maintenance, training for pilots and crew, and communication procedures.
+
+curry - food processing, packaging, and labeling
+
+
+. The use of a high-quality software process leads to high-quality software because it ensures that every step of the development process is executed correctly and consistently. Each phase of the process is designed to achieve specific objectives and outcomes, ensuring that the resulting software product meets the required standards and specifications.
+
+
+
+. Without worrying about interfering with one another, it can find several bugs in a single run.
+The inspection gathers a large group of individuals with a range of error-related experiences.
+
+
+. it can identify a number of errors, including data, control, input/output, interface, storage management, and exception management errors, which cannot all be identified by a single component test.
+
+
+. The relationships between internal product attributes and external attributes are difficult to validate because internal product attributes are reliant on the product itself and describe software products in a certain way. Internal product measurement aids in understanding the quality of the software product, while external product measurement aids in understanding how well the software product meets its requirements and how well it can be maintained.
+
+
+
+https://chatgpt.org/chat
+
+https://www.studocu.com/en-us/messages/question/2828910/explain-why-program-inspections-are-an-effective-technique-for-discovering-errors-in-a-programwhat#:~:text=Answer%3A,range%20of%20error%2Drelated%20experiences.
